@@ -82,9 +82,9 @@ Lesson  | Unit Number | Session Number |
 FLEX: Project Workshop + Presentations          | Unit 1 | Session 4 |
 --- | ---  | ---  |
 [Exploratory Data Analysis in Pandas][1-1E]     | Unit 2 | Session 5 |
-[Data Visualization in Python][1-1G]            | Unit 2 | Session 6 |
-[Statistics in Python][1-1H]                    | Unit 2 | Session 7 |
-[Experiments & Hypothesis Testing][1-1F]        | Unit 2 | Session 8 |
+[Data Visualization in Python][1-1F]            | Unit 2 | Session 6 |
+[Statistics in Python][1-1G]                    | Unit 2 | Session 7 |
+[Experiments & Hypothesis Testing][1-1H]        | Unit 2 | Session 8 |
 FLEX: Project Workshop + Presentations          | Unit 2 | Session 9 |
 --- | ---  | ---  |
 [Linear Regression][1-1J]                       | Unit 3 | Session 10 |
@@ -105,9 +105,9 @@ FLEX: Review + Project Workshop                 | Unit 4 | Session 19 |
 [1-1C]: ./lessons/required/python-foundations/
 
 [1-1E]: ./lessons/required/exploratory-data-analysis/
-[1-1F]: ./lessons/required/experiments-hypothesis-tests/
-[1-1G]: ./lessons/required/data-visualization/
-[1-1H]: ./lessons/required/statistics-refresher/
+[1-1F]: ./lessons/required/data-visualization/
+[1-1G]: ./lessons/required/statistics-refresher/
+[1-1H]: ./lessons/required/experiments-hypothesis-tests/
 
 [1-1J]: ./lessons/required/linear-regression/
 [1-1K]: ./lessons/required/train-test-split-bias-variance/
@@ -254,7 +254,7 @@ All assignments must be submitted by the final day of the course in order to rec
 ## Office Hours
 Every week, your instructional team will hold office hours where you can get in touch to ask questions about anything relating to the course. This is a *great opportunity* to follow up on questions or ask for more details about any topics covered so far.
 
-* Instructor's Office Hours - TBD (or by Appointment - slack Naumaan N)
+* Instructor's Office Hours - Wednesdays 5:30-7:30pm (or by Appointment - slack Naumaan N)
 
 Slack me at Naumaan N or post in our #officehours channel to reserve a time-slot!
 
